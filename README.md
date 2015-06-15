@@ -1,5 +1,7 @@
 # VCR
 
+[![Join the chat at https://gitter.im/mcfiredrill/vcr](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mcfiredrill/vcr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
 
 [![Build Status](https://secure.travis-ci.org/vcr/vcr.png?branch=master)](http://travis-ci.org/vcr/vcr) [![Code Climate](https://codeclimate.com/github/vcr/vcr.png)](https://codeclimate.com/github/vcr/vcr)
